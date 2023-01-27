@@ -17,31 +17,31 @@ Creación del Proyecto en Spring Tool 4
 
 	2.1.- Name -> Ventas
 
-  2.2.- Type -> Maven
+  	2.2.- Type -> Maven
 
-  2.3.- Java Version: 11
+	2.3.- Java Version: 11
 
-  2.4.- Group -> com.tienda
+  	2.4.- Group -> com.tienda
 
-  2.5.- Version -> 0.0.1
+ 	2.5.- Version -> 0.0.1
 
-  2.6.- Description -> Proyecto backend ventas
+  	2.6.- Description -> Proyecto backend ventas
 
-  2.7.- Package -> com.tienda
+  	2.7.- Package -> com.tienda
 
-  2.8.- Next
+  	2.8.- Next
 
 3.- Elegimos la versión del Spring Boot -> 2.7.8
 
 4.- Agregamos las siguientes dependencias
 
-  4.1.- Spring Data JPA
+	4.1.- Spring Data JPA
 
-  4.2.- PostgreSQL Driver
+  	4.2.- PostgreSQL Driver
 
-  4.3.- Spring Web
+  	4.3.- Spring Web
 
-  4.4.- Finish
+  	4.4.- Finish
 
   
 
