@@ -15,7 +15,7 @@ Creación del Proyecto en Spring Tool 4
 
 2.- LLenaremos los siguientes campos
 
-  2.1.- Name -> Ventas
+	2.1.- Name -> Ventas
 
   2.2.- Type -> Maven
 
