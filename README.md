@@ -36,12 +36,9 @@ Para cualquier consulta pueden escribir en el discord: https://discord.gg/QCDZU2
 4.- Agregamos las siguientes dependencias
 
 	4.1.- Spring Data JPA
-
-  	4.2.- PostgreSQL Driver
-
-  	4.3.- Spring Web
-
-  	4.4.- Finish
+	4.2.- PostgreSQL Driver
+	4.3.- Spring Web
+	4.4.- Finish
 
 
 *******************INICIO - PostgreSQL*******************
