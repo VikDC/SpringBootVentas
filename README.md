@@ -5,6 +5,8 @@ Este es un proyecto para compartir conocimiento con desarrolladores hispanohabla
 
 2.- Usaremos Java versión 11, motivo por el cual usaremos JDK versión 11, pueden descargar del proveedor que deseen, de igual manera les dejo la URL de donde yo descargué: https://adoptium.net/es/temurin/releases/
 
+3.- Usaremos PostgreSQL para la base de datos, pueden descargarla de la siguiente URL: https://www.postgresql.org/download/
+
 Para cualquier consulta pueden escribir en el discord: https://discord.gg/QCDZU2PA
 
 *******************INICIO - Creación del Proyecto en Spring Tool 4*******************
@@ -41,7 +43,22 @@ Para cualquier consulta pueden escribir en el discord: https://discord.gg/QCDZU2
 
   	4.4.- Finish
 
-  
+
+*******************INICIO - PostgreSQL*******************
+
+1.- Crear una base de datos llamada tiendasPeru
+
+
+*******************INICIO - Configuración del archivo application.properties*******************
+
+	1.- spring.jpa.database=postgresql
+	2.- spring.jpa.show-sql=false
+	3.- spring.jpa.hibernate.ddl-auto=update
+	4.- spring.datasource.driver-class-name=org.postgresql.Driver
+	5.- spring.datasource.url=jdbc:postgresql://localhost/tiendasperu
+	6.- spring.datasource.username=postgres
+	7.- spring.datasource.password=root
+
 
 
 
