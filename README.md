@@ -7,11 +7,12 @@ Este es un proyecto para compartir conocimiento con desarrolladores hispanohabla
 
 Para cualquier consulta pueden escribir en el discord: https://discord.gg/QCDZU2PA
 
-==============INICIO==============
+*******************INICIO*******************
 
 Creación del Proyecto en Spring Tool 4
 
 1.- File -> New -> Spring Starter Project
+
 2.- LLenaremos los siguientes campos
 
   2.1.- Name -> Ventas
