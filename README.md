@@ -27,7 +27,6 @@ Creación del Proyecto en Spring Tool 4
   4.3.- Spring Web
   4.4.- Finish
   
-  
->>>>>>>>>>>>>>>INICIO<<<<<<<<<<<<<<<
+
 
 
