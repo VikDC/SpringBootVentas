@@ -36,7 +36,7 @@ Para cualquier consulta pueden escribir en el discord: https://discord.gg/QCDZU2
 
 *******************INICIO - PostgreSQL*******************
 
-1.- Crear una base de datos llamada tiendasPeru
+1.- Crear una base de datos llamada tiendasperu
 
 
 *******************INICIO - Configuración del archivo application.properties*******************
